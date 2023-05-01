@@ -13,7 +13,7 @@ This is a mini project which I have created using Eclipse IDE for java ,linking 
 ## Requirements
 * Java
 * Eclipse IDE
-* VS MySQl
+* MySQl Workbench
 
 ## Code 
 
