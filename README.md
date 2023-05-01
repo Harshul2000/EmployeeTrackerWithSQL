@@ -2,10 +2,10 @@ This is a mini project which I have created using Eclipse IDE for java ,linking 
 
 
 
-<img src="data/Database SS.png" height="240" >
+
 <img src="data/Insert.png" height="240" >
 <img src="data/deletes SS.png" height="240" >
-
+<img src="data/Database SS.png" height="240" >
 
 
 
