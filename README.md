@@ -1,4 +1,4 @@
-This is a mini project which I have created using Eclipse IDE for java ,linking it with MYSQL Workbench. I have created a database called student_tracker-db , in which there is a table called employee. I have created methods to insert and delete records in the the database , directly from Eclipse IDE
+This is a mini project which I have created using Eclipse IDE for java ,linking it with MYSQL Workbench using a jar fie, which is a driver. I have created a database called student_tracker-db , in which there is a table called employee. I have created methods to insert and delete records in the the database , directly from Eclipse IDE
 
 
 
